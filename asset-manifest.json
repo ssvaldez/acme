@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/acme/static/css/main.bffe9699.chunk.css",
+    "main.js": "/acme/static/js/main.571fc1fc.chunk.js",
+    "main.js.map": "/acme/static/js/main.571fc1fc.chunk.js.map",
+    "runtime-main.js": "/acme/static/js/runtime-main.92ad7140.js",
+    "runtime-main.js.map": "/acme/static/js/runtime-main.92ad7140.js.map",
+    "static/js/2.f7babcf9.chunk.js": "/acme/static/js/2.f7babcf9.chunk.js",
+    "static/js/2.f7babcf9.chunk.js.map": "/acme/static/js/2.f7babcf9.chunk.js.map",
+    "static/js/3.076bca44.chunk.js": "/acme/static/js/3.076bca44.chunk.js",
+    "static/js/3.076bca44.chunk.js.map": "/acme/static/js/3.076bca44.chunk.js.map",
+    "index.html": "/acme/index.html",
+    "static/css/main.bffe9699.chunk.css.map": "/acme/static/css/main.bffe9699.chunk.css.map",
+    "static/js/2.f7babcf9.chunk.js.LICENSE.txt": "/acme/static/js/2.f7babcf9.chunk.js.LICENSE.txt",
+    "static/media/accent-large.aeed540a.svg": "/acme/static/media/accent-large.aeed540a.svg",
+    "static/media/accent.b9a301ce.svg": "/acme/static/media/accent.b9a301ce.svg",
+    "static/media/logo.918d6025.svg": "/acme/static/media/logo.918d6025.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92ad7140.js",
+    "static/js/2.f7babcf9.chunk.js",
+    "static/css/main.bffe9699.chunk.css",
+    "static/js/main.571fc1fc.chunk.js"
+  ]
+}
