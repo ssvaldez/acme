@@ -24,7 +24,7 @@ export default function ResetPassword() {
     <>
       <SidePanel />
       <MainPanel>
-        <Heading3 variant="h3" uppercase={false}>
+        <Heading3 variant="h3" uppercase={0}>
           Reset Password
         </Heading3>
         <Instructions>

@@ -56,7 +56,7 @@ export function SidePanel() {
       <CenterContainer>
         <LogoContainer>
           <Logo />
-          <Heading3 variant="h3" color="textSecondary" uppercase={true}>
+          <Heading3 variant="h3" color="textSecondary" uppercase={1}>
             Acme
           </Heading3>
         </LogoContainer>

@@ -12,7 +12,7 @@ export default function SignIn() {
     <>
       <SidePanel />
       <MainPanel>
-        <Heading3 variant="h3" uppercase={false}>
+        <Heading3 variant="h3" uppercase={0}>
           Sign in
         </Heading3>
         <Divider></Divider>

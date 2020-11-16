@@ -8,11 +8,11 @@ export const Heading1 = styled(Typography)`
   
 `;
 
-export const Heading3 = styled(Typography)<{uppercase: boolean; }>`
+export const Heading3 = styled(Typography)<{uppercase: number; }>`
   font-size: 36px;
   line-height: 44px;
   font-weight: 700;
-  ${({ uppercase }) => uppercase && `
+  ${({ uppercase }) => uppercase  === 1 && `
     text-transform: uppercase;
   `}
 `;
