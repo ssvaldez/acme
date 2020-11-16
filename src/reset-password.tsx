@@ -40,7 +40,7 @@ export default function ResetPassword() {
             variant="outlined"
             onChange={handleEmailFieldChange}
           ></TextField>
-          <ActionButton variant="contained">Sign In</ActionButton>
+          <ActionButton variant="contained">Reset Password</ActionButton>
         </SignInFields>
         <div>
           <SmallText color="textPrimary">

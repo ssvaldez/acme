@@ -22,7 +22,9 @@ const SidePaper = styled(Paper)`
 `;
 
 const TopAccent = styled(Accent)`
-  transform: translate(544px, -176px);
+  position: relative;
+  top: -18%;
+  right: -92%;
 `;
 
 const CenterContainer = styled.div`
